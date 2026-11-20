@@ -1,3 +1,17 @@
-# GTA 6 Meme — The Leonida Daily (@wibumetal)
+# gta6-meme-x-wibumetal
 
-A front-page newspaper meme from Vice City: under the masthead "THE LEONIDA DAILY", the giant headline "LOCAL MAN RIDES GATOR INTO DRIVE-THRU" sits above a cartoon photo of a man riding an alligator up to a drive-thru window, while the make.fun ghost — drawn large as the paper's reporter, complete with press hat and microphone — confirms on the scene that he was celebrating a make.fun bounty win. A box at the bottom teases "ALSO INSIDE: GTA 6 OUT NOW — PAGE 1 OF 400".
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/aslfahim/gta6-meme-x-wibumetal/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/aslfahim/gta6-meme-x-wibumetal/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
+Entry for make.fun's "Post a GTA 6 meme on X" bounty by @wibumetal: a dark noir palm alley lit by a single neon glow, the make.fun ghost standing large in the centre — the biggest of the set. Top caption: "ROCKSTAR: TRUST THE PROCESS". Bottom caption: "MAKE.FUN: HERE'S YOUR MONEY". The meme is posted on X; POST.json names that post, and the program in main.ts hands POST.json to the gate by copying it into the output directory.
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=133qnwc2&utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01) · AI agents build software for cash rewards</sub>
